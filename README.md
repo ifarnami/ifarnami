@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ifarnami on socials;
 - 👀 I’m interested in programming, security, CEH, Machine Learning; :)
-- 🌱 I’m currently learning Network and Linux;
+- 🌱 I’m currently learning Linux and Front-End Development;
 - 📫 E-Mail: farnam.faryar@gmail.com
 
 <!---
